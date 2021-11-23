@@ -1,0 +1,65 @@
+[
+    {
+        "name":"Lalnagiti",
+        "price":5000,
+        "id": 1,
+        "img":"https://image.freepik.com/free-photo/caucasian-female-singer-portrait-isolated-blue-studio-background-neon-light-beautiful-female-model-bright-dress-with-microphone-concept-human-emotions-facial-expression-ad-music-art_155003-30901.jpg"
+    },
+    {
+        "name":"Nazrul Giti",
+        "price":4000,
+        "id": 2,
+        "img":"https://image.freepik.com/free-photo/happy-boy-playing-having-fun-green-studio-wall_155003-36914.jpg"
+    },
+    {
+        "name":" Modern",
+        "price":6000,
+        "id": 3,
+        "img":"https://image.freepik.com/free-photo/female-singer-portrait-isolated-green-studio-wall-neon-light_155003-31971.jpg"
+    },
+    {
+        "name":"Kabigan",
+        "price":5000,
+        "id": 4,
+        "img":"https://image.freepik.com/free-photo/caucasian-woman-s-portrait-isolated-blue-background-multicolored-neon-light_155003-32526.jpg"
+    },
+    {
+        "name":" Murshidi",
+        "price":3000,
+        "id": 5,
+        "img":"https://image.freepik.com/free-photo/cheering-crowd-having-fun-music-festival-nightclub_53876-104261.jpg"
+    },
+    {
+        "name":"High music",
+        "price":7000,
+        "id": 6,
+        "img":"https://as2.ftcdn.net/v2/jpg/01/17/48/79/500_F_117487978_DJkBeZyfTIbyoe0bDGmg2pSj9PsVaFAe.jpg"
+    },
+    {
+        "name":"Jari",
+        "price":6500,
+        "id": 7,
+        "img":"https://image.freepik.com/free-photo/african-american-handsome-jazz-musician-playing-pipe-studio-neon-background-music-concept-young-joyful-attractive-guy-improvising-close-up-retro-portrait_155003-33854.jpg"
+    },
+    {
+        "name":"Sari",
+        "price":4500,
+        "id": 8,
+        "img":"https://image.freepik.com/free-photo/caucasian-female-singer-portrait-isolated-blue-studio-background-neon-light-beautiful-female-model-bright-dress-with-microphone-concept-human-emotions-facial-expression-ad-music-art_155003-34338.jpg"
+    },
+    {
+        "name":"Rabindra Sangeet",
+        "price":5000,
+        "id": 9,
+        "img":"https://image.freepik.com/free-photo/smiling-caucasian-boy-is-playing-acoustic-guitar-isolated-white-background_186202-4474.jpg"
+    },
+    {
+        "name":"Baul songs",
+        "price":5500,
+        "id":10,
+        "img":"https://image.freepik.com/free-photo/african-american-handsome-jazz-musician-playing-bass-guitar-studio-neon-background-music-concept-young-joyful-attractive-guy-improvising-close-up-retro-portrait_155003-34582.jpg"
+    }  
+]
+
+
+ 

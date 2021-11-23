@@ -1,0 +1,8 @@
+.button-info{
+    background-color: lightsalmon;
+    padding: 5px;
+    border-radius: 5px;
+    color: white;
+    border: 1px solid navy;
+    font-weight: 700;
+}
